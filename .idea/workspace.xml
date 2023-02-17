@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fca80c2-aad9-4813-a8fb-81ee3b315425" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geolocator/GeoLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geolocator/GeoLocation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
